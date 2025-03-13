@@ -1,7 +1,41 @@
-## Hi I'm André 🐧
+## Hi, I'm André 🐧  
 
-# 💫 About Me:
-🚀 I’m currently working on<br><br>A poker game with user authentication and PostgreSQL<br>An interactive portfolio website using Next.js and React<br>IT Discovery and UCMDB integrations with SMAX<br>🤝 I’m looking to collaborate on<br><br>Open-source projects related to system administration, Linux, or cybersecurity<br>Web applications using React, Next.js, or Python<br>👐 I’m looking for help with<br><br>Advanced PostgreSQL optimizations<br>Deploying full-stack applications with Heroku and Docker<br>Best practices for security in web development<br>🌱 I’m currently learning<br><br>Linux administration and security<br>Python scripting for automation and cybersecurity<br>Next.js and full-stack development<br>💬 Ask me about<br><br>IT Discovery with UCMDB and SMAX<br>PostgreSQL database design and queries<br>Automating workflows with Selenium<br>⚡ Fun fact<br><br>My first interactive portfolio was inspired by Pokémon!
+# About Me:  
+🚀 I’m currently working on  
+<br><br>  
+💻 A poker game with user authentication and PostgreSQL (side project)  
+☁️ Linux and Python scripting for automation and security  
+🔍 IT Discovery and UCMDB integrations with SMAX  
+📜 Preparing for cloud security certifications and hands-on projects  
+<br><br> 
+🤝 I’m looking to collaborate on  
+<br><br>  
+🔐 Cloud security and automation projects  
+🐧 Open-source projects related to Linux and cybersecurity  
+🌍 Web applications using React, Next.js, or Python  
+<br><br> 
+👐 I’m looking for help with  
+<br><br>  
+☁️ Best practices for cloud security  
+🐍 Advanced Python scripting for automation  
+🔧 Optimizing PostgreSQL for high-performance applications  
+<br><br> 
+🌱 I’m currently learning  
+<br><br>  
+📖 Cloud security principles and best practices  
+🐧 Advanced Linux administration and security hardening  
+⚙️ DevOps tools like Docker, Terraform, and Kubernetes  
+<br><br> 
+💬 Ask me about  
+<br><br>  
+🔎 IT Discovery with UCMDB and SMAX  
+📊 PostgreSQL database design and queries  
+🤖 Automating workflows with Selenium  
+<br><br> 
+⚡ Fun fact  
+<br><br>  
+My first interactive portfolio was inspired by Pokémon!  
+
 
 
 ## 🌐 Socials:
