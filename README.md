@@ -9,23 +9,21 @@
 📜 Preparing for cloud security certifications and hands-on projects  
 <br><br> 
 🤝 I’m looking to collaborate on  
-<br><br>  
 🔐 Cloud security and automation projects  
 🐧 Open-source projects related to Linux and cybersecurity  
 🌍 Web applications using React, Next.js, or Python  
 <br><br> 
 👐 I’m looking for help with  
-<br><br>  
+
 ☁️ Best practices for cloud security  
 🐍 Advanced Python scripting for automation  
 🔧 Optimizing PostgreSQL for high-performance applications  
 <br><br> 
 🌱 I’m currently learning  
-<br><br>  
 📖 Cloud security principles and best practices  
 🐧 Advanced Linux administration and security hardening  
 ⚙️ DevOps tools like Docker, Terraform, and Kubernetes  
-<br><br> 
+
 💬 Ask me about  
 <br><br>  
 🔎 IT Discovery with UCMDB and SMAX  
@@ -33,7 +31,7 @@
 🤖 Automating workflows with Selenium  
 <br><br> 
 ⚡ Fun fact  
-<br><br>  
+
 My first interactive portfolio was inspired by Pokémon!  
 
 
