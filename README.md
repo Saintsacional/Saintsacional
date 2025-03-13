@@ -2,38 +2,37 @@
 
 # About Me:  
 🚀 I’m currently working on  
-<br><br>  
+ 
 💻 A poker game with user authentication and PostgreSQL (side project)  
 ☁️ Linux and Python scripting for automation and security  
 🔍 IT Discovery and UCMDB integrations with SMAX  
 📜 Preparing for cloud security certifications and hands-on projects  
-<br><br> 
+
 🤝 I’m looking to collaborate on  
 🔐 Cloud security and automation projects  
 🐧 Open-source projects related to Linux and cybersecurity  
 🌍 Web applications using React, Next.js, or Python  
-<br><br> 
+
 👐 I’m looking for help with  
 
 ☁️ Best practices for cloud security  
 🐍 Advanced Python scripting for automation  
 🔧 Optimizing PostgreSQL for high-performance applications  
-<br><br> 
+
 🌱 I’m currently learning  
 📖 Cloud security principles and best practices  
 🐧 Advanced Linux administration and security hardening  
 ⚙️ DevOps tools like Docker, Terraform, and Kubernetes  
 
 💬 Ask me about  
-<br><br>  
+  
 🔎 IT Discovery with UCMDB and SMAX  
 📊 PostgreSQL database design and queries  
 🤖 Automating workflows with Selenium  
-<br><br> 
+
 ⚡ Fun fact  
 
 My first interactive portfolio was inspired by Pokémon!  
-
 
 
 ## 🌐 Socials:
