@@ -1,38 +1,33 @@
 ## Hi, I'm André 🐧  
 
-# About Me:  
-🚀 I’m currently working on  
- 
-💻 A poker game with user authentication and PostgreSQL (side project)  
-☁️ Linux and Python scripting for automation and security  
-🔍 IT Discovery and UCMDB integrations with SMAX  
-📜 Preparing for cloud security certifications and hands-on projects  
+# 👋 Hey, I’m André!  
 
-🤝 I’m looking to collaborate on  
-🔐 Cloud security and automation projects  
-🐧 Open-source projects related to Linux and cybersecurity  
-🌍 Web applications using React, Next.js, or Python  
+🚀 **Breaking Systems to Secure Them** | 🏆 **Marathoner in Tech & Life**  
 
-👐 I’m looking for help with  
+## 🛠️ Currently Building:  
+🎰 **A high-stakes Poker game** with user authentication & PostgreSQL (side project)  
+🐧 **Linux & Python automation** for security & efficiency  
+☁️ **Hands-on cloud security labs** to prepare for certifications  
 
-☁️ Best practices for cloud security  
-🐍 Advanced Python scripting for automation  
-🔧 Optimizing PostgreSQL for high-performance applications  
+## 🤝 Let’s Team Up!  
+🔐 **Cloud security & automation** – Let’s make the cloud bulletproof  
+🐧 **Open-source Linux & cybersecurity** – Because security should be shared  
 
-🌱 I’m currently learning  
-📖 Cloud security principles and best practices  
-🐧 Advanced Linux administration and security hardening  
-⚙️ DevOps tools like Docker, Terraform, and Kubernetes  
+## 🆘 I Could Use a Hand With:  
+☁️ **Mastering cloud security best practices** – Always room to improve!  
+🐍 **Advanced Python scripting** – Making automation even smarter  
 
-💬 Ask me about  
-  
-🔎 IT Discovery with UCMDB and SMAX  
-📊 PostgreSQL database design and queries  
-🤖 Automating workflows with Selenium  
+## 📚 Currently Leveling Up In:  
+📖 **Cloud security** – Learning to think like an attacker to defend better  
+🐧 **Advanced Linux admin & security hardening** – Because root isn’t enough  
+⚙️ **DevOps & infrastructure as code** – Docker, Terraform, Kubernetes  
 
-⚡ Fun fact  
+## 💬 Ask Me About:  
+🔎 **IT Discovery with UCMDB & SMAX** – Finding what’s hidden in enterprise IT  
 
-My first interactive portfolio was inspired by Pokémon!  
+## ⚡ Fun Fact:  
+🏃 **Ran a marathon** – Because endurance isn’t just for running, it’s for tech too!  
+
 
 
 ## 🌐 Socials:
