@@ -1,28 +1,32 @@
-## Hi, I'm André 🐧  
+# ☁️ Hey, I’m André!  
 
-# 👋 Hey, I’m André!  
+### 🛠️ Web Developer ➡️ Cloud Engineer in Progress ➡️ Future Cloud Security Specialist  
 
-🚀 **Breaking Systems to Secure Them** | 🏆 **Marathoner in Tech & Life**  
+With a background in **Web Development**, I’ve built full-stack applications, but now I’m shifting gears to **Cloud Engineering** with a long-term goal of specializing in **Cloud Security**. My journey is all about **automation, security, and scalability**.  
 
-## 🛠️ Currently Building:  
-🎰 **A high-stakes Poker game** with user authentication & PostgreSQL (side project)  
-🐧 **Linux & Python automation** for security & efficiency  
-☁️ **Hands-on cloud security labs** to prepare for certifications  
+## 🚀 What I’m Working On:  
+🎰 **A high-stakes Poker game** – Built with PostgreSQL & user authentication  
+🐧 **Linux & Python automation** – Writing scripts to simplify security & cloud ops  
+☁️ **Hands-on cloud projects** – Learning by deploying & securing real workloads  
 
-## 🆘 I Could Use a Hand With:  
-☁️ **Mastering cloud security best practices** – Always room to improve!  
-🐍 **Advanced Python scripting** – Making automation even smarter  
+## 🔍 The Next Step:  
+🔐 **Transitioning into Cloud Engineering** – Mastering cloud infrastructure & automation  
+⚡ **Future in Cloud Security** – Securing the cloud, one system at a time  
 
-## 📚 Currently Leveling Up In:  
-📖 **Cloud security** – Learning to think like an attacker to defend better  
-🐧 **Advanced Linux admin & security hardening** – Because root isn’t enough  
-⚙️ **DevOps & infrastructure as code** – Docker, Terraform, Kubernetes  
+## 🏗️ Skills I’m Building:  
+📖 **Cloud security & architecture** – Learning to protect cloud environments  
+🐧 **Advanced Linux & security hardening** – Because root isn’t enough  
+⚙️ **DevOps tools & automation** – Docker, Terraform, Kubernetes, Ansible  
 
-## 💬 Ask Me About:  
-🔎 **IT Discovery with UCMDB & SMAX** – Finding what’s hidden in enterprise IT  
+## 🤝 Let’s Connect!  
+🔐 **Cloud security & automation projects** – Always open to collaborations  
+🐧 **Open-source Linux & cybersecurity** – Contributing & learning together  
 
-## ⚡ Fun Fact:  
-🏃 **Ran a marathon** – Because endurance isn’t just for running, it’s for tech too!  
+## 💡 Ask Me About:  
+🔎 **IT Discovery with UCMDB & SMAX** – Navigating enterprise IT infrastructures  
+
+## 🏃 Fun Fact:  
+I ran a **marathon** – because endurance isn’t just for running, it’s for tech too!  
 
 
 
