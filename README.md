@@ -25,7 +25,7 @@ With a background in **Web Development**, I’ve built full-stack applications, 
 🔎 **IT Discovery with UCMDB & SMAX** – Navigating enterprise IT infrastructures  
 
 ## 🏃 Fun Fact:  
-I ran a **marathon** – because endurance isn’t just for running, it’s for tech too!  
+I ran a **marathon** 🏅 – because endurance isn’t just for running, it’s for tech too!  
 
 
 ## 🌐 Socials:
