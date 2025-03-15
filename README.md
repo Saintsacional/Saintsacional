@@ -9,10 +9,6 @@
 🐧 **Linux & Python automation** for security & efficiency  
 ☁️ **Hands-on cloud security labs** to prepare for certifications  
 
-## 🤝 Let’s Team Up!  
-🔐 **Cloud security & automation** – Let’s make the cloud bulletproof  
-🐧 **Open-source Linux & cybersecurity** – Because security should be shared  
-
 ## 🆘 I Could Use a Hand With:  
 ☁️ **Mastering cloud security best practices** – Always room to improve!  
 🐍 **Advanced Python scripting** – Making automation even smarter  
