@@ -1,4 +1,4 @@
-# ☁️ Hey, I’m André!  
+# Hey, I’m André! 
 
 ### 🛠️ Web Developer ➡️ Cloud Engineer in Progress ➡️ Future Cloud Security Specialist  
 
