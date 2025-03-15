@@ -5,7 +5,6 @@
 With a background in **Web Development**, I’ve built full-stack applications, but now I’m shifting gears to **Cloud Engineering** with a long-term goal of specializing in **Cloud Security**. My journey is all about **automation, security, and scalability**.  
 
 ## 🚀 What I’m Working On:  
-🎰 **A high-stakes Poker game** – Built with PostgreSQL & user authentication  
 🐧 **Linux & Python automation** – Writing scripts to simplify security & cloud ops  
 ☁️ **Hands-on cloud projects** – Learning by deploying & securing real workloads  
 
@@ -27,7 +26,6 @@ With a background in **Web Development**, I’ve built full-stack applications, 
 
 ## 🏃 Fun Fact:  
 I ran a **marathon** – because endurance isn’t just for running, it’s for tech too!  
-
 
 
 ## 🌐 Socials:
